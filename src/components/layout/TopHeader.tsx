@@ -3,7 +3,7 @@ import ActivityIcon from "@/assets/Activity.png";
 import BudgetingIcon from "@/assets/Budgeting.png";
 import CalendarIcon from "@/assets/calendar.png";
 import ShopIcon from "@/assets/shop.png";
-import WalletIcon from "@/assets/Wallet.png";
+import WalletIcon from "@/assets/wallet.png";
 import HeaderIcon from "../helper/HelperIcon";
 import ProfileAvatar from "../helper/ProfileAvatar";
 
