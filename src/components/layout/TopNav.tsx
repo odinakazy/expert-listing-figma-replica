@@ -2,7 +2,7 @@ import { NavLink } from "react-router-dom";
 
 import HomeIcon from "@/assets/Home.png";
 import ToolIcon from "@/assets/Toolbox.png";
-import TaskIcon from "@/assets/Task.png";
+import TaskIcon from "@/assets/task.png";
 import RequestIcon from "@/assets/Request.png";
 import ApplicationIcon from "@/assets/Application.png";
 import ProfileIcon from "@/assets/Profile.png";
